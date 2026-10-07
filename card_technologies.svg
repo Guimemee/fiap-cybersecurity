@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad_fiap_cybersecurity" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120707" />
+      <stop offset="50%" stop-color="#210c0c" />
+      <stop offset="100%" stop-color="#120707" />
+    </linearGradient>
+    <linearGradient id="pGrad_fiap_cybersecurity" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444" />
+      <stop offset="100%" stop-color="#f97316" />
+    </linearGradient>
+    <pattern id="grid_fiap_cybersecurity" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#4d1f1f" stroke-width="0.8" stroke-opacity="0.4" />
+      <circle cx="40" cy="40" r="1.5" fill="#ef4444" fill-opacity="0.25" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="520" fill="url(#bgGrad_fiap_cybersecurity)" rx="16" />
+  <rect width="1200" height="520" fill="url(#grid_fiap_cybersecurity)" rx="16" />
+  <rect width="1196" height="516" x="2" y="2" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-opacity="0.35" rx="14" />
+
+  <path d="M 40 40 L 280 40 L 310 70 L 600 70 L 620 50 L 1160 50" fill="none" stroke="#f97316" stroke-width="1.5" stroke-opacity="0.3" />
+  <circle cx="280" cy="40" r="3.5" fill="#f97316" />
+  <circle cx="600" cy="70" r="3.5" fill="#ef4444" />
+  <circle cx="1160" cy="50" r="4" fill="#f87171" />
+
+  <g transform="translate(60, 85)">
+    <rect x="0" y="0" width="80" height="28" rx="6" fill="#331515" stroke="#ef4444" stroke-width="1.2" />
+    <text x="40" y="19" fill="#ef4444" font-family="-apple-system, sans-serif" font-size="13" font-weight="800" text-anchor="middle" letter-spacing="1">FIAP</text>
+    <rect x="92" y="0" width="160" height="28" rx="6" fill="#331515" stroke="#4d1f1f" stroke-width="1.2" />
+    <text x="172" y="19" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="12" font-weight="600" text-anchor="middle">4ECS • 2025</text>
+    <rect x="264" y="0" width="220" height="28" rx="6" fill="#331515" stroke="#f87171" stroke-width="1" />
+    <text x="374" y="19" fill="#f87171" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">SPI / Metaindústria (Gêmeo Digit</text>
+  </g>
+
+  <g transform="translate(60, 160)">
+    <text x="0" y="42" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="32" font-weight="900" letter-spacing="-0.5">CYBERSECURITY</text>
+    <text x="0" y="80" fill="#f87171" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500">Arquitetura Zero Trust, Criptografia RSA/ECC, Defesa em Profundidade, Pente</text>
+    <text x="0" y="105" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">Bacharelado em Engenharia da Computação • Acervo Integral de Engenharia</text>
+  </g>
+
+  
+    <g transform="translate(560, 120)">
+      <rect width="270" height="76" rx="10" fill="#331515" stroke="#4d1f1f" stroke-width="1.2" />
+      <text x="16" y="24" fill="#f87171" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">ARQUITETURA DE SEGURANÇA</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">ZERO TRUST</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Never Trust, Always Verify</text>
+    </g>
+    <g transform="translate(850, 120)">
+      <rect width="270" height="76" rx="10" fill="#331515" stroke="#4d1f1f" stroke-width="1.2" />
+      <text x="16" y="24" fill="#f87171" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">CRIPTOGRAFIA ASSIMÉTRICA</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">RSA-4096 / ECC</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Curva Elíptica ed25519</text>
+    </g>
+    <g transform="translate(560, 210)">
+      <rect width="270" height="76" rx="10" fill="#331515" stroke="#4d1f1f" stroke-width="1.2" />
+      <text x="16" y="24" fill="#f87171" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">TEMPO MÉDIO DE DETECÇÃO</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">MTTD &lt; 4 MIN</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Alertas Correlacionados no SIEM</text>
+    </g>
+    <g transform="translate(850, 210)">
+      <rect width="270" height="76" rx="10" fill="#331515" stroke="#4d1f1f" stroke-width="1.2" />
+      <text x="16" y="24" fill="#f87171" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">FRAMEWORK DE AMEAÇAS</text>
+      <text x="16" y="48" fill="#ffffff" font-family="'Fira Code', monospace" font-size="16" font-weight="800">MITRE ATT&amp;CK</text>
+      <text x="16" y="66" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10">Mapeamento TTPs e Resposta a Incidentes</text>
+    </g>
+
+  <g transform="translate(60, 420)">
+    <text x="0" y="0" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="12" font-weight="700" letter-spacing="1">TECNOLOGIAS &amp; METODOLOGIAS DOMINADAS:</text>
+  </g>
+  
+    <g transform="translate(60, 450)">
+      <rect width="236.5" height="28" rx="14" fill="#331515" stroke="#ef4444" stroke-width="1" />
+      <text x="118.25" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">🔒 Zero Trust Architecture</text>
+    </g>
+    <g transform="translate(308.5, 450)">
+      <rect width="228.0" height="28" rx="14" fill="#331515" stroke="#ef4444" stroke-width="1" />
+      <text x="114.0" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">🔑 Criptografia RSA &amp; ECC</text>
+    </g>
+    <g transform="translate(548.5, 450)">
+      <rect width="228.0" height="28" rx="14" fill="#331515" stroke="#ef4444" stroke-width="1" />
+      <text x="114.0" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">🛡️ SIEM Splunk / Elastic</text>
+    </g>
+    <g transform="translate(788.5, 450)">
+      <rect width="219.5" height="28" rx="14" fill="#331515" stroke="#ef4444" stroke-width="1" />
+      <text x="109.75" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">⚔️ Pentest &amp; Metasploit</text>
+    </g>
+    <g transform="translate(1020.0, 450)">
+      <rect width="168.5" height="28" rx="14" fill="#331515" stroke="#ef4444" stroke-width="1" />
+      <text x="84.25" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">📋 LGPD &amp; NIST CSF</text>
+    </g>
+    <g transform="translate(1200.5, 450)">
+      <rect width="279.0" height="28" rx="14" fill="#331515" stroke="#ef4444" stroke-width="1" />
+      <text x="139.5" y="18" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">🏭 Cibersegurança Industrial OT</text>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Cybersecurity
+Turma 4ECS • Ano 2025
+Checkpoint 06: Conformidade LGPD, Estrutura NIST CSF e Resiliência Cibernética
+
+ENUNCIADO ORIGINAL:
+Implementar plano diretor de segurança da informação alinhado ao NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover) e requisitos da LGPD.

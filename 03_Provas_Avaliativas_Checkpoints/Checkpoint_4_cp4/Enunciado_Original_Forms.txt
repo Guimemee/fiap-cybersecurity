@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Cybersecurity
+Turma 4ECS • Ano 2025
+Checkpoint 04: Testes de Invasão (Pentest) e Análise de Vulnerabilidades
+
+ENUNCIADO ORIGINAL:
+Executar testes de intrusão autorizados em ambiente de laboratório simulando ataque de homem-no-meio (MitM), envenenamento ARP e exploração de vulnerabilidades de buffer overflow.

@@ -1,0 +1,23 @@
+{
+  "ano": "2025",
+  "turma": "4ECS",
+  "disciplina": "Cybersecurity",
+  "tema": "Global Solution de Cybersecurity",
+  "dataEntrega": "19/11/2025 23:55",
+  "descricao": "Desenvolva um roteiro de testes de segurança da informação em uma plataforma de\ncontratações online. Esta plataforma recebe milhares de currículos todos os anos, e\nconstantemente sofre ataques em seus servidores. Estes ataques costumam visar a negação do\nserviço (DoS) e ataques diretos no banco de dados.\n\nBaseado neste cenário, responda de forma discursiva abaixo:\n1 - Como você analisaria as vulnerabilidades da companhia? Cite pelo menos quatro.\n2 - Como você preveniria estas vulnerabilidades? Apresente uma ação preventiva para cada\nvulnerabilidade listada no item 1.\n3 - Como você atuaria no banco de dados para prevenir ataques futuros?\n4 - Como você atuaria para criar barreiras de proteção contra DoS?\n\nCritérios de avaliação:\na - Clareza na informação\nb - Mapeamento de vulnerabilidades de acordo com lista Top 10 da OWASP\nc - Coesão do conteúdo com boas práticas de mercado\nd - Qualidade dos exemplos de análise de vulnerabilidade e proposição de resolução.",
+  "integrantes": "INTEGRANTES\n96020 - CAIO EDUARDO VIEIRA DA SILVA",
+  "comentarios": "COMENTÁRIOS\nAnexar Arquivos",
+  "anexosProf": [
+    {
+      "name": "Global Solution - 4EC - Cybersecurity(2).pdf",
+      "href": "https://on1.fiap.com.br/updown/upload_fiap/alunos/trabalhoGraduacao/arquivosAnexo/Global%20Solution%20-%204EC%20-%20Cybersecurity(2).pdf"
+    }
+  ],
+  "entregaAluno": [
+    {
+      "name": "CC4E8156-24AE-4B0E-A2A9-BE5CC9793539.pdf",
+      "href": "https://on1.fiap.com.br/updown/upload_fiap/alunos/trabalhoGraduacao/entregaAluno/CC4E8156-24AE-4B0E-A2A9-BE5CC9793539.pdf",
+      "textFull": "ARQUIVO\nCC4E8156-24AE-4B0E-A2A9-BE5CC9793539.pdf (Entregue pelo(a) aluno(a) CAIO EDUARDO VIEIRA DA SILVA no dia 19/11/2025 às 18:04)"
+    }
+  ]
+}

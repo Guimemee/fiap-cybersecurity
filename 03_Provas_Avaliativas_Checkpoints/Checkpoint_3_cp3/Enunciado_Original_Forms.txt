@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Cybersecurity
+Turma 4ECS • Ano 2025
+Checkpoint 03: Segurança de Redes Industriais OT: Firewalls de Próxima Geração e IDS/IPS
+
+ENUNCIADO ORIGINAL:
+Configurar regras de inspeção profunda de pacotes (DPI) em firewall industrial para inspecionar protocolos Modbus TCP e CIP bloqueando comandos não autorizados de escrita em registradores.

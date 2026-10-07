@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Cybersecurity
+Turma 4ECS • Ano 2025
+Checkpoint 02: Gestão de Identidade, Autenticação Multifator (MFA) e OAuth 2.0 / OIDC
+
+ENUNCIADO ORIGINAL:
+Projetar a infraestrutura de controle de acesso federado OAuth 2.0 com Proof Key for Code Exchange (PKCE) e tokens JWT com assinatura assimétrica RS256.
